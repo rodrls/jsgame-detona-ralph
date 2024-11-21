@@ -46,3 +46,9 @@
 .menu-score h2:nth-child(2) {
   margin-top: 1rem;
 }
+
+.footer{
+    background-color: #000000;
+    height: 150px;
+        
+}
